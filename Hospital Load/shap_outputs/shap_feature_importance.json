@@ -1,0 +1,74 @@
+[
+  {
+    "feature": "arrivals",
+    "mean_abs_shap": 0.3590986430644989
+  },
+  {
+    "feature": "avg_acuity",
+    "mean_abs_shap": 0.3459473252296448
+  },
+  {
+    "feature": "tasks_roll_24h",
+    "mean_abs_shap": 0.34216824173927307
+  },
+  {
+    "feature": "hour_of_day",
+    "mean_abs_shap": 0.3141787648200989
+  },
+  {
+    "feature": "avg_proc_time",
+    "mean_abs_shap": 0.30750933289527893
+  },
+  {
+    "feature": "arrivals_roll_12h",
+    "mean_abs_shap": 0.2844914197921753
+  },
+  {
+    "feature": "tasks_roll_12h",
+    "mean_abs_shap": 0.21648161113262177
+  },
+  {
+    "feature": "tasks_roll_3h",
+    "mean_abs_shap": 0.21313506364822388
+  },
+  {
+    "feature": "tasks_roll_6h",
+    "mean_abs_shap": 0.17587313055992126
+  },
+  {
+    "feature": "tasks_created",
+    "mean_abs_shap": 0.1681506186723709
+  },
+  {
+    "feature": "arrivals_roll_24h",
+    "mean_abs_shap": 0.13880130648612976
+  },
+  {
+    "feature": "arrivals_roll_6h",
+    "mean_abs_shap": 0.13533900678157806
+  },
+  {
+    "feature": "arrivals_roll_3h",
+    "mean_abs_shap": 0.12306002527475357
+  },
+  {
+    "feature": "tasks_roll_1h",
+    "mean_abs_shap": 0.07548920065164566
+  },
+  {
+    "feature": "day_of_week",
+    "mean_abs_shap": 0.05470269173383713
+  },
+  {
+    "feature": "arrivals_roll_1h",
+    "mean_abs_shap": 0.04853932186961174
+  },
+  {
+    "feature": "is_weekend",
+    "mean_abs_shap": 0.004633852280676365
+  },
+  {
+    "feature": "staff_on_duty",
+    "mean_abs_shap": 0.0
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "model_artifact": "D:\\Hospital Load\\xgb_model.pkl",
+  "n_rows_explained": 336,
+  "summary_png": "D:\\Hospital Load\\shap_outputs\\shap_summary.png",
+  "feature_importance_json": "D:\\Hospital Load\\shap_outputs\\shap_feature_importance.json",
+  "per_sample_csv": "D:\\Hospital Load\\shap_outputs\\shap_per_sample.csv"
+}

@@ -1,0 +1,25 @@
+{
+  "feature_columns": [
+    "arrivals",
+    "avg_acuity",
+    "avg_proc_time",
+    "tasks_created",
+    "staff_on_duty",
+    "hour_of_day",
+    "day_of_week",
+    "is_weekend",
+    "arrivals_roll_1h",
+    "arrivals_roll_3h",
+    "arrivals_roll_6h",
+    "arrivals_roll_12h",
+    "arrivals_roll_24h",
+    "tasks_roll_1h",
+    "tasks_roll_3h",
+    "tasks_roll_6h",
+    "tasks_roll_12h",
+    "tasks_roll_24h"
+  ],
+  "model_path": "D:\\Hospital Load\\xgb_model.pkl",
+  "xgboost_version": "3.0.5",
+  "fit_method": "no_early_stopping"
+}
